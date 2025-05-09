@@ -1,0 +1,157 @@
+sector,NAICS
+Advertising Services,51
+"Advertising Services, IT Services and IT Consulting, and Software Development",51
+"Advertising Services, Marketing Services, and Technology, Information and Internet",51
+"Advertising Services, Technology, Information and Internet, and Software Development",51
+"Advertising Services, Technology, Information and Media, and Marketing Services",55
+"Appliances, Electrical, and Electronics Manufacturing and Manufacturing",31
+Automation Machinery Manufacturing,31
+Aviation & Aerospace,54
+Banking,52
+Banking and Financial Services,52
+Banking and Investment Banking,52
+"Banking, Engineering Services, and Technology, Information and Internet",52
+Biotechnology Research,5
+Biotechnology Research and Research Services,5
+"Biotechnology Research, Software Development, and Health and Human Services",5
+Business Consulting and Services,55
+Business Consulting and Services and Outsourcing and Offshoring Consulting,55
+Capital Markets,55
+Civil Engineering,51
+"Climate Technology Product Manufacturing, Climate Data and Analytics, and Software Development",51
+Computer and Network Security,51
+Computer Games and Social Networking Platforms,51
+"Computer Hardware Manufacturing, Defense and Space Manufacturing, and IT Services and IT Consulting",51
+"Computer Hardware Manufacturing, Software Development, and Computer Networking Products",51
+"Computer Hardware Manufacturing, Software Development, and Computers and Electronics Manufacturing",51
+"Computer Hardware Manufacturing, Software Development, and IT Services and IT Consulting",51
+Computer Networking,51
+Computers and Electronics Manufacturing,51
+Construction and Software Development,23
+Consumer Electronics,5
+Data Infrastructure and Analytics,51
+"Data Infrastructure and Analytics, Engineering Services, and Information Services",51
+"Data Infrastructure and Analytics, Software Development, and Information Services",51
+Defense & Space,99
+Defense and Space Manufacturing,31
+Defense and Space Manufacturing and Aviation and Aerospace Component Manufacturing,31
+Defense and Space Manufacturing and Research Services,31
+Design Services,51
+Desktop Computing Software Products,51
+E-Learning Providers,61
+"Engineering Services, Research Services, and Software Development",51
+"Engineering Services, Software Development, and IT Services and IT Consulting",51
+"Engineering Services, Software Development, and Technology, Information and Media",51
+Entertainment Providers,81
+"Entertainment Providers, Technology, Information and Internet, and Movies, Videos, and Sound",81
+Financial Services,52
+Financial Services and Banking,52
+Financial Services and Hospitals and Health Care,62
+Financial Services and Software Development,52
+"Financial Services, Construction, and Software Development",23
+"Financial Services, Information Services, and Software Development",52
+"Financial Services, Investment Banking, and Investment Management",52
+"Financial Services, Technology, Information and Internet, and Software Development",52
+"Financial Services, Venture Capital and Private Equity Principals, and Software Development",52
+Food and Beverage Manufacturing,31
+Gambling Facilities and Casinos and Spectator Sports,71
+Ground Passenger Transportation,48
+Health and Human Services,62
+Higher Education,61
+Hospitality,72
+Hospitals and Health Care,62
+Hospitals and Health Care and Medical Equipment Manufacturing,62
+"Hospitals and Health Care, Internet Marketplace Platforms, and Technology, Information and Media",62
+"Hospitals and Health Care, Software Development, and IT Services and IT Consulting",62
+Human Resources Services,55
+Industrial Machinery Manufacturing,31
+"Industrial Machinery Manufacturing, Railroad Equipment Manufacturing, and Technology, Information and Media",31
+Information Services,51
+Information Services and IT Services and IT Consulting,51
+Information Services and Software Development,51
+"Information Services and Technology, Information and Internet",51
+"Information Services, Computers and Electronics Manufacturing, and Software Development",51
+Information Technology & Services,51
+Insurance,52
+Insurance and Hospitals and Health Care,52
+Internet Publishing,51
+Investment Banking,52
+IT Services and IT Consulting,51
+IT Services and IT Consulting and Financial Services,51
+IT Services and IT Consulting and Hospitals and Health Care,51
+"IT Services and IT Consulting, Automation Machinery Manufacturing, and Motor Vehicle Manufacturing",51
+IT System Custom Software Development,51
+"IT System Custom Software Development, Technology, Information and Media, and Computer and Network Security",51
+"Leasing Non-residential Real Estate, IT Services and IT Consulting, and Research Services",53
+Legal Services,54
+Legal Services and Software Development,54
+Manufacturing,31
+Marketing Services,55
+Medical Device,62
+Medical Equipment Manufacturing,62
+"Medical Equipment Manufacturing, Chemical Manufacturing, and Manufacturing",62
+Mental Health Care,62
+Motor Vehicle Manufacturing,31
+"Motor Vehicle Manufacturing, Motor Vehicle Parts Manufacturing, and Software Development",31
+Non-profit Organizations,55
+Non-profit Organizations and Primary and Secondary Education,55
+Oil and Gas,21
+Online Audio and Video Media,51
+Outsourcing and Offshoring Consulting,55
+Professional Training and Coaching,55
+Public Relations and Communications Services,55
+Real Estate,53
+Renewable Energy Equipment Manufacturing,21
+Renewable Energy Semiconductor Manufacturing,21
+Research,54
+Research Services,54
+Retail,44
+Retail and Retail Apparel and Fashion,44
+Robotics Engineering,31
+Semiconductor Manufacturing,31
+Semiconductors,31
+Social Networking Platforms,51
+Social Networking Platforms and Marketing Services,51
+Software Development,51
+Software Development and Advertising Services,51
+Software Development and Data Infrastructure and Analytics,51
+Software Development and Engineering Services,51
+Software Development and Information Services,51
+Software Development and Internet Marketplace Platforms,51
+Software Development and IT Services and IT Consulting,51
+Software Development and IT System Custom Software Development,51
+"Software Development and Technology, Information and Internet",51
+"Software Development, Biotechnology Research, and Engineering Services",51
+"Software Development, Consumer Services, and Motor Vehicle Manufacturing",51
+"Software Development, Design Services, and IT Services and IT Consulting",51
+"Software Development, Financial Services, and Technology, Information and Internet",51
+"Software Development, Hospitals and Health Care, and IT Services and IT Consulting",51
+"Software Development, IT Services and IT Consulting, and IT System Custom Software Development",51
+"Software Development, IT Services and IT Consulting, and Technology, Information and Internet",51
+"Software Development, IT System Data Services, and IT Services and IT Consulting",51
+"Software Development, Online Audio and Video Media, and IT Services and IT Consulting",51
+"Software Development, Technology, Information and Internet, and IT Services and IT Consulting",51
+"Software Development, Technology, Information and Internet, and Wellness and Fitness Services",51
+"Spectator Sports, Software Development, and Information Services",71
+Staffing and Recruiting,55
+Staffing and Recruiting and Financial Services,55
+Staffing and Recruiting and IT Services and IT Consulting,55
+"Staffing and Recruiting and Technology, Information and Media",55
+"Staffing and Recruiting, IT Services and IT Consulting, and Financial Services",55
+"Technology, Information and Internet",51
+"Technology, Information and Internet and Financial Services",51
+"Technology, Information and Internet and IT Services and IT Consulting",51
+"Technology, Information and Internet and Motor Vehicle Manufacturing",51
+"Technology, Information and Internet and Software Development",51
+"Technology, Information and Internet, Software Development, and Computer and Network Security",51
+"Technology, Information and Internet, Software Development, and Insurance",51
+"Technology, Information and Media",51
+"Technology, Information and Media and Information Services",51
+"Technology, Information and Media and Staffing and Recruiting",51
+"Technology, Information and Media, Biotechnology Research, and Software Development",51
+"Technology, Information and Media, Engineering Services, and Software Development",51
+"Technology, Information and Media, Information Services, and IT Services and IT Consulting",51
+Telecommunications,22
+Translation and Localization,51
+Utilities,22
+Wellness and Fitness Services,62
